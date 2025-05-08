@@ -34,22 +34,34 @@ function Header(){
 }
 function Pictures(){
     return(
-        <main> 
-
+        <main>
+            <p>Here are some pictures from our events!</p>
         </main>
     )
 }
-function footer(){
-
+function Footer(){
+    return (
+        <footer>
+            <p>Follow us on Instagram and WhatsApp for updates!</p>
+        </footer>
+    )
 }
 
-function Page(){
-    return(
+function Page() {
+  return (
     <>
-    <Header/> 
-    <footer> </footer>
-    <App></App>
+      <Header />
+      <Pictures />
+      <Footer />
+      <App />
     </>
-)
+  );
 }
-root.render(Page)
+
+root.render(<Page />);
+// to do: add calendar
+// add pictures
+// add events
+// add header-> dropdown menu 
+// add footer
+// link to insta/whatsapp 
