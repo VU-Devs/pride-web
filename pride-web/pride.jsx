@@ -44,10 +44,12 @@ function footer(){
 }
 
 function Page(){
+    return(
     <>
     <Header/> 
     <footer> </footer>
     <App></App>
     </>
+)
 }
 root.render(Page)
