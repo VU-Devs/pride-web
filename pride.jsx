@@ -2,7 +2,8 @@ import {createRoot} from react-dom/client
 
 import { useState } from 'react';
 import Calendar from 'react-calendar';
-
+const root = createRoot(document.getElementById("root"))
+import 'react-calendar/dist/Calendar.css';
 function App() {
   const [date, setDate] = useState(new Date());
 
@@ -20,7 +21,6 @@ function App() {
   );
 }
 
-const root = createRoot(document.getElementById("root"))
 
 function Header(){
     <main> 
