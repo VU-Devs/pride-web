@@ -7,7 +7,13 @@ WIP
 ## 📁 How to Use
 
 1. Clone the repo or [download ZIP](https://github.com/VU-Devs/pride-web/archive/refs/heads/main.zip).
-2. Open `index.html` in a browser.
+2. Run `npm install` to install the dependencies.
+3. Run `npm start` to start the development server.
+4. Open your browser and go to `http://localhost:3000` to see the website.
+
+> [!WARNING]  
+> Still in development.
+> If the build fails, run npm audit fix --force
 
 
 ## 🛠 Deploy to GitHub Pages
