@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/pride-web/static/css/main.d4d46372.css",
+    "main.css": "/pride-web/static/css/main.408a047c.css",
     "main.js": "/pride-web/static/js/main.cc527630.js",
     "index.html": "/pride-web/index.html",
-    "main.d4d46372.css.map": "/pride-web/static/css/main.d4d46372.css.map",
+    "main.408a047c.css.map": "/pride-web/static/css/main.408a047c.css.map",
     "main.cc527630.js.map": "/pride-web/static/js/main.cc527630.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4d46372.css",
+    "static/css/main.408a047c.css",
     "static/js/main.cc527630.js"
   ]
 }
