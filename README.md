@@ -11,6 +11,8 @@ WIP
 3. Run `npm start` to start the development server.
 4. Open your browser and go to `http://localhost:3000` to see the website.
 
+5. `npm run deploy` to deploy the website to GitHub Pages.
+
 > [!WARNING]  
 > Still in development.
 > If the build fails, run npm audit fix --force
